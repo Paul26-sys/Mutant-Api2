@@ -134,3 +134,6 @@ Ejemplo de no mutante
   ]
 }
 Esta API proporciona una solución eficiente para verificar secuencias de ADN y obtener estadísticas sobre las verificaciones realizadas. Utiliza H2 Database para almacenar los resultados y Swagger para facilitar la interacción con la API.
+
+RENDER
+https://mutant-api2.onrender.com
